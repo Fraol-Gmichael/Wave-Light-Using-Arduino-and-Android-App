@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BluetoothArduinoConnector</string>
+
+    <string-array name="distances">
+        <item>3000</item>
+        <item>5000</item>
+        <item>10000</item>
+    </string-array>
+
+</resources>
